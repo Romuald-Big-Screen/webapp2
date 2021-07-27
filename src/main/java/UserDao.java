@@ -1,5 +1,7 @@
 
 
 public class UserDao {
-    String name = "toto";
+
+    String firstName = "toto";
+    String lastName = "titi";
 }
